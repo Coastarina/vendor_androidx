@@ -50,7 +50,8 @@ PRODUCT_PACKAGES += \
     Basic \
     Camera \
     Development \
-    LatinIME
+    LatinIME \
+    masquerade
 
 # Emoji
 PRODUCT_PACKAGES += \
